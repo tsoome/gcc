@@ -460,7 +460,7 @@ along with GCC; see the file COPYING3.  If not see
 #define STDC_0_IN_SYSTEM_HEADERS 1
 
 /* Support Solaris-specific format checking for cmn_err.  */
-#define TARGET_N_FORMAT_TYPES 1
+#define TARGET_N_FORMAT_TYPES 3
 #define TARGET_FORMAT_TYPES solaris_format_types
 
 /* #pragma init and #pragma fini are implemented on top of init and
